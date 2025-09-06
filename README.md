@@ -1,4 +1,4 @@
-You need a key from [Google AI Studio](https://aistudio.google.com/app/apikey) Add it in your `.env` and ![.NET 10](https://img.shields.io/badge/.NET-10.0_Preview-7C3AED)  
+You need a key from [Google AI Studio](https://aistudio.google.com/app/apikey) Add it in your `.env` and [![.NET 10](https://img.shields.io/badge/.NET-10.0_Preview-7C3AED)](https://dotnet.microsoft.com/download/dotnet/10.0)
 
 ## Local Services  
 - [http://localhost](http://localhost)  
