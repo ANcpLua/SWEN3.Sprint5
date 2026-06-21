@@ -11,7 +11,7 @@
     <ItemGroup>
         <PackageReference Include="CreatePdf.NET" Version="2.0.1"/>
         <PackageReference Include="Elastic.Clients.Elasticsearch" Version="9.1.6"/>
-        <PackageReference Include="JetBrains.Annotations" Version="2025.2.0"/>
+        <PackageReference Include="JetBrains.Annotations" Version="2025.2.4"/>
         <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.0-preview.7.25380.108"/>
         <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="10.0.0-preview.7.25380.108"/>
         <PackageReference Include="Microsoft.Extensions.Options.DataAnnotations" Version="10.0.0-preview.7.25380.108"/>
