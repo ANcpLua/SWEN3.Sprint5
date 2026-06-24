@@ -15,7 +15,7 @@
       test: pg_isready -U ${POSTGRES_USER:-postgres} -d ${POSTGRES_DB:-paperless}
 
   adminer:
-    image: adminer:4.8.1@sha256:34d37131366c5aa84e1693dbed48593ed6f95fb450b576c1a7a59d3a9c9e8802
+    image: adminer:4.17.1@sha256:1068c07446f47f6d52a47387c68341b21b075b6bd651e4bb85d7fc14bca9c33a
     container_name: paperless-adminer
     depends_on: [ postgres ]
     ports:
